@@ -1,5 +1,5 @@
 
-public class Practice3 {
+public class While {
 
     public static void main(String[] args) {
         int a = 1;
