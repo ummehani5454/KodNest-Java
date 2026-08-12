@@ -15,7 +15,7 @@ public class EmApplication {
         System.out.println(e2.name);
         System.out.println(e1.id);
         System.out.println(e1.name);
-        // Employee.work();
+        // e1.work();
 
     }
 }
